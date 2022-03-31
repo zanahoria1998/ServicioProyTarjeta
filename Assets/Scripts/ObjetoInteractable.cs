@@ -1,3 +1,4 @@
+//Código de la tarjeta para aparecer los cuados de dialógo al resionar una opción dentro de la tarjeta.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
