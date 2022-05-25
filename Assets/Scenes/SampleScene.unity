@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 109904549}
   m_Layer: 5
   m_Name: ImagenDialogo
-  m_TagString: Untagged
+  m_TagString: ICanva
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -153,7 +153,7 @@ RectTransform:
   m_GameObject: {fileID: 109904545}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -47.510418}
-  m_LocalScale: {x: 2.877801, y: 2.8296244, z: 2.6019535}
+  m_LocalScale: {x: 1.715975, y: 1.6872483, z: 1.5514928}
   m_Children:
   - {fileID: 357701356}
   m_Father: {fileID: 1632182598}
@@ -233,6 +233,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3576263cf9212a54ea098ae62e0deffc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  trofeos:
+  - {fileID: 3844425969551407644, guid: d26092b4c8681cb4fb560b9a76f25313, type: 3}
+  - {fileID: 7614415464950059565, guid: cfe9089d050f7d344bf855ddb8fbbde5, type: 3}
+  - {fileID: 1355517490414592763, guid: 1dd9050ef8e5a0f4eb35cca04379682a, type: 3}
   textoPantalla: {fileID: 357701357}
 --- !u!114 &109904551
 MonoBehaviour:
@@ -1125,7 +1129,7 @@ RectTransform:
   m_GameObject: {fileID: 1317961610}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -5}
-  m_LocalScale: {x: 1.4521492, y: 1.4521492, z: 1.0891118}
+  m_LocalScale: {x: 0.86497265, y: 0.86497265, z: 0.64872944}
   m_Children:
   - {fileID: 1984054051}
   - {fileID: 780518882}
@@ -1136,7 +1140,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -10, y: 5.5}
+  m_AnchoredPosition: {x: -10.063, y: 37.696}
   m_SizeDelta: {x: 201, y: 299}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1317961612
